@@ -1,0 +1,714 @@
+1610801805022	geckodriver	INFO	Listening on 127.0.0.1:56303
+1610801805026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley8s1t8"
+
+(firefox:29260): Gtk-WARNING **: 18:26:45.089: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:29402): Gtk-WARNING **: 18:26:45.932: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:29425): Gtk-WARNING **: 18:26:46.065: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:29511): Gtk-WARNING **: 18:26:47.115: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610801807124	Marionette	INFO	Listening on port 35807
+1610801807163	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29621): Gtk-WARNING **: 18:26:56.169: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:29648): Gtk-WARNING **: 18:26:57.873: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610801819580	Marionette	INFO	Stopped listening on port 35807
+1610801832184	geckodriver	INFO	Listening on 127.0.0.1:57125
+1610801832189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDpW31k"
+
+(firefox:29751): Gtk-WARNING **: 18:27:12.253: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:29882): Gtk-WARNING **: 18:27:13.110: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:29902): Gtk-WARNING **: 18:27:13.222: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610801834155	Marionette	INFO	Listening on port 33769
+
+(/usr/lib/firefox/firefox:29986): Gtk-WARNING **: 18:27:14.159: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610801834222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+1610801849507	Marionette	INFO	Stopped listening on port 33769
+1610803592129	geckodriver	INFO	Listening on 127.0.0.1:59443
+1610803592133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2oefyU"
+
+(firefox:37212): Gtk-WARNING **: 18:56:32.191: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:37340): Gtk-WARNING **: 18:56:33.038: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:37360): Gtk-WARNING **: 18:56:33.149: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610803594166	Marionette	INFO	Listening on port 33427
+
+(/usr/lib/firefox/firefox:37445): Gtk-WARNING **: 18:56:34.180: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610803594271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:38130): Gtk-WARNING **: 18:57:37.327: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610803659172	Marionette	INFO	Stopped listening on port 33427
+1610803661904	geckodriver	INFO	Listening on 127.0.0.1:45235
+1610803661909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuie8Jz"
+
+(firefox:38221): Gtk-WARNING **: 18:57:41.970: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:38347): Gtk-WARNING **: 18:57:42.814: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:38367): Gtk-WARNING **: 18:57:42.942: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:38456): Gtk-WARNING **: 18:57:44.105: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610803664129	Marionette	INFO	Listening on port 39709
+1610803664239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:38734): Gtk-WARNING **: 18:58:31.874: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610803715158	Marionette	INFO	Stopped listening on port 39709
+1610803956277	geckodriver	INFO	Listening on 127.0.0.1:58643
+1610803956281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5sGBbL"
+
+(firefox:39757): Gtk-WARNING **: 19:02:36.352: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:39907): Gtk-WARNING **: 19:02:37.174: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:39927): Gtk-WARNING **: 19:02:37.287: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610803958150	Marionette	INFO	Listening on port 44833
+
+(/usr/lib/firefox/firefox:40026): Gtk-WARNING **: 19:02:38.159: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610803958215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:40323): Gtk-WARNING **: 19:03:14.426: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610803996606	Marionette	INFO	Stopped listening on port 44833
+1610804105086	geckodriver	INFO	Listening on 127.0.0.1:45105
+1610804105091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLfgmWW"
+
+(firefox:41028): Gtk-WARNING **: 19:05:05.146: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:41178): Gtk-WARNING **: 19:05:05.995: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:41201): Gtk-WARNING **: 19:05:06.141: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:41285): Gtk-WARNING **: 19:05:07.076: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610804107081	Marionette	INFO	Listening on port 38459
+1610804107133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+1610804119487	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+(/usr/lib/firefox/firefox:41547): Gtk-WARNING **: 19:05:34.940: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610804137985	Marionette	INFO	Stopped listening on port 38459
+1610804325672	geckodriver	INFO	Listening on 127.0.0.1:47613
+1610804325677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefgKBBC"
+
+(firefox:43052): Gtk-WARNING **: 19:08:45.733: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:43182): Gtk-WARNING **: 19:08:46.604: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:43202): Gtk-WARNING **: 19:08:46.710: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610804327619	Marionette	INFO	Listening on port 34073
+
+(/usr/lib/firefox/firefox:43291): Gtk-WARNING **: 19:08:47.656: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610804327720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilefgKBBC/protections.sqlite
+1610804499047	Marionette	INFO	Stopped listening on port 34073
+1610804507367	geckodriver	INFO	Listening on 127.0.0.1:41691
+1610804507370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEFRfyh"
+
+(firefox:44274): Gtk-WARNING **: 19:11:47.435: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:44430): Gtk-WARNING **: 19:11:48.294: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:44450): Gtk-WARNING **: 19:11:48.416: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:44536): Gtk-WARNING **: 19:11:49.419: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610804509424	Marionette	INFO	Listening on port 38593
+1610804509511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+1610804516862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1610804699221	Marionette	INFO	Stopped listening on port 38593
+1610804710686	geckodriver	INFO	Listening on 127.0.0.1:46475
+1610804710691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIAbJsI"
+
+(firefox:45537): Gtk-WARNING **: 19:15:10.758: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:45673): Gtk-WARNING **: 19:15:11.628: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:45696): Gtk-WARNING **: 19:15:11.763: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:45791): Gtk-WARNING **: 19:15:12.756: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610804712765	Marionette	INFO	Listening on port 45947
+1610804712826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+
+(/usr/lib/firefox/firefox:46211): Gtk-WARNING **: 19:16:13.501: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610804776698	Marionette	INFO	Stopped listening on port 45947
+1610804781149	geckodriver	INFO	Listening on 127.0.0.1:51275
+1610804781153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAhgOgG"
+
+(firefox:46287): Gtk-WARNING **: 19:16:21.219: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:46427): Gtk-WARNING **: 19:16:22.092: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:46450): Gtk-WARNING **: 19:16:22.225: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:46544): Gtk-WARNING **: 19:16:23.215: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610804783218	Marionette	INFO	Listening on port 35421
+1610804783285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+1610804801992	Marionette	INFO	Stopped listening on port 35421
+1610804903661	geckodriver	INFO	Listening on 127.0.0.1:37815
+1610804903665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehZtixx"
+
+(firefox:47271): Gtk-WARNING **: 19:18:23.722: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:47423): Gtk-WARNING **: 19:18:24.577: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:47446): Gtk-WARNING **: 19:18:24.732: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610804905666	Marionette	INFO	Listening on port 42161
+
+(/usr/lib/firefox/firefox:47531): Gtk-WARNING **: 19:18:25.675: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610804905703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+1610804928191	geckodriver	INFO	Listening on 127.0.0.1:59141
+1610804928197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Ulrc1"
+
+(firefox:47800): Gtk-WARNING **: 19:18:48.272: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:47954): Gtk-WARNING **: 19:18:49.230: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:47974): Gtk-WARNING **: 19:18:49.337: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610804930238	Marionette	INFO	Listening on port 39241
+
+(/usr/lib/firefox/firefox:48061): Gtk-WARNING **: 19:18:50.265: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610804930332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610804958583	Marionette	INFO	Stopped listening on port 39241
+1610804963441	Marionette	INFO	Stopped listening on port 42161
+1610805535522	geckodriver	INFO	Listening on 127.0.0.1:47903
+1610805535526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecwY6hv"
+
+(firefox:51034): Gtk-WARNING **: 19:28:55.579: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:51181): Gtk-WARNING **: 19:28:56.475: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:51204): Gtk-WARNING **: 19:28:56.618: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610805537689	Marionette	INFO	Listening on port 42821
+
+(/usr/lib/firefox/firefox:51299): Gtk-WARNING **: 19:28:57.706: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610805537757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610805607440	Marionette	INFO	Stopped listening on port 42821
+1610806207637	geckodriver	INFO	Listening on 127.0.0.1:57229
+1610806207642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOizZM3"
+
+(firefox:54492): Gtk-WARNING **: 19:40:07.709: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:54642): Gtk-WARNING **: 19:40:08.566: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:54662): Gtk-WARNING **: 19:40:08.702: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610806209827	Marionette	INFO	Listening on port 38061
+
+(/usr/lib/firefox/firefox:54748): Gtk-WARNING **: 19:40:09.848: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610806209884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610806236198	Marionette	INFO	Stopped listening on port 38061
+1610806250936	geckodriver	INFO	Listening on 127.0.0.1:35987
+1610806250940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNUVJHC"
+
+(firefox:55083): Gtk-WARNING **: 19:40:50.994: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:55234): Gtk-WARNING **: 19:40:51.810: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:55257): Gtk-WARNING **: 19:40:51.940: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610806253009	Marionette	INFO	Listening on port 41199
+
+(/usr/lib/firefox/firefox:55339): Gtk-WARNING **: 19:40:53.026: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610806253078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610806298179	Marionette	INFO	Stopped listening on port 41199
+1610806306690	geckodriver	INFO	Listening on 127.0.0.1:41347
+1610806306695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecRi3q7"
+
+(firefox:55730): Gtk-WARNING **: 19:41:46.756: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:55882): Gtk-WARNING **: 19:41:47.562: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:55902): Gtk-WARNING **: 19:41:47.679: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610806308734	Marionette	INFO	Listening on port 45627
+
+(/usr/lib/firefox/firefox:55988): Gtk-WARNING **: 19:41:48.759: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610806308828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1610806381165	Marionette	INFO	Stopped listening on port 45627
+1610806430996	geckodriver	INFO	Listening on 127.0.0.1:54743
+1610806431001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaE1DO3"
+
+(firefox:56689): Gtk-WARNING **: 19:43:51.062: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:56825): Gtk-WARNING **: 19:43:51.892: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:56859): Gtk-WARNING **: 19:43:52.024: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610806433168	Marionette	INFO	Listening on port 36725
+
+(/usr/lib/firefox/firefox:56946): Gtk-WARNING **: 19:43:53.170: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610806433238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610806818764	Marionette	INFO	Stopped listening on port 36725
+1610806860831	geckodriver	INFO	Listening on 127.0.0.1:44595
+1610806860836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8NVzxS"
+
+(firefox:58873): Gtk-WARNING **: 19:51:00.901: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:59016): Gtk-WARNING **: 19:51:01.769: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:59036): Gtk-WARNING **: 19:51:01.888: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:59121): Gtk-WARNING **: 19:51:02.913: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610806862919	Marionette	INFO	Listening on port 43905
+1610806862968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610806927646	Marionette	INFO	Stopped listening on port 43905
