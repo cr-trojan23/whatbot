@@ -712,3 +712,232 @@ JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1610806927646	Marionette	INFO	Stopped listening on port 43905
+1610807372137	geckodriver	INFO	Listening on 127.0.0.1:47737
+1610807372142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYfLYbh"
+
+(firefox:61595): Gtk-WARNING **: 19:59:32.207: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:61745): Gtk-WARNING **: 19:59:33.034: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:61767): Gtk-WARNING **: 19:59:33.177: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610807374265	Marionette	INFO	Listening on port 38751
+
+(/usr/lib/firefox/firefox:61849): Gtk-WARNING **: 19:59:34.280: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610807374371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+1610807738004	Marionette	INFO	Stopped listening on port 38751
+1610810338641	geckodriver	INFO	Listening on 127.0.0.1:40015
+1610810338646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Lr3WR"
+
+(firefox:76349): Gtk-WARNING **: 20:48:58.710: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:76479): Gtk-WARNING **: 20:48:59.542: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:76516): Gtk-WARNING **: 20:48:59.681: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:76597): Gtk-WARNING **: 20:49:00.715: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610810340719	Marionette	INFO	Listening on port 44625
+1610810340778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+1610810390022	Marionette	INFO	Stopped listening on port 44625
+1610810513820	geckodriver	INFO	Listening on 127.0.0.1:35671
+1610810513825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu2WCmP"
+
+(firefox:77747): Gtk-WARNING **: 20:51:53.896: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:77879): Gtk-WARNING **: 20:51:54.746: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:77899): Gtk-WARNING **: 20:51:54.857: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:78000): Gtk-WARNING **: 20:51:55.900: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610810515903	Marionette	INFO	Listening on port 45021
+1610810515973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+1610810560348	Marionette	INFO	Stopped listening on port 45021
+1610813286411	geckodriver	INFO	Listening on 127.0.0.1:34545
+1610813286415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1CtsmI"
+
+(firefox:89495): Gtk-WARNING **: 21:38:06.470: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:89655): Gtk-WARNING **: 21:38:07.338: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:89675): Gtk-WARNING **: 21:38:07.461: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610813288456	Marionette	INFO	Listening on port 41059
+
+(/usr/lib/firefox/firefox:89761): Gtk-WARNING **: 21:38:08.466: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610813288552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610813333153	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610813335936	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610814240894	geckodriver	INFO	Listening on 127.0.0.1:50689
+1610814240898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6jGEb3"
+
+(firefox:94538): Gtk-WARNING **: 21:54:00.969: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:94674): Gtk-WARNING **: 21:54:01.838: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:94695): Gtk-WARNING **: 21:54:01.953: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610814243064	Marionette	INFO	Listening on port 38865
+
+(/usr/lib/firefox/firefox:94780): Gtk-WARNING **: 21:54:03.084: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610814243135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610814269626	Marionette	INFO	Stopped listening on port 38865
+1610814273915	geckodriver	INFO	Listening on 127.0.0.1:38809
+1610814273919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSgIrHD"
+
+(firefox:95118): Gtk-WARNING **: 21:54:33.993: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:95250): Gtk-WARNING **: 21:54:34.828: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:95270): Gtk-WARNING **: 21:54:34.949: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:95355): Gtk-WARNING **: 21:54:36.008: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1610814276021	Marionette	INFO	Listening on port 33285
+1610814276050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.8b134ca1ce161e0ab407.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610814473628	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610814476444	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610814479286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610814482113	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+1610814999569	Marionette	INFO	Stopped listening on port 33285
+Gdk-Message: 22:08:45.473: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 22:08:45.479: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 22:08:45.478: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 22:08:45.572: firefox: Fatal IO error 0 (Success) on X server :1.
+
