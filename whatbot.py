@@ -1,17 +1,13 @@
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 import time
 firefox_driver = webdriver.Firefox(executable_path="/home/kiaria/Documents/github_projects/whatbot/geckodriver")
 firefox_driver.get("https://web.whatsapp.com")
 
-time.sleep(5)
-
-contact_name = input("Enter the contact name: ")
-contact_box = firefox_driver.find_element_by_xpath('//span[@title="{}"]'.format(contact_name))
-contact_box.click()
-
-text_box = firefox_driver.find_element_by_xpath('/html/body/div[1]/div/div/div[4]/div/footer/div[1]/div[2]/div/div[2]')
-for i in range(2001):
-    msg = ""
+input()
+text_box = firefox_driver.find_element_by_xpath('/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div/div[2]')
+for i in range(6):
+    msg = "Test msg " + str(i)
     text_box.send_keys(msg)
-    send_button = firefox_driver.find_element_by_xpath('/html/body/div[1]/div/div/div[4]/div/footer/div[1]/div[3]')
-    send_button.click() 
+    text_box.send_keys(Keys.ENTER)
+    #time.sleep(2)s

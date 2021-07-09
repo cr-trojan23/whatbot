@@ -1996,3 +1996,254 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1625478363078	geckodriver	INFO	Listening on 127.0.0.1:60603
+1625478364076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9l7iio"
+
+(firefox:10570): Gtk-WARNING **: 15:16:04.196: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625478364909	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:10658): Gtk-WARNING **: 15:16:05.445: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:10570): Gtk-WARNING **: 15:16:05.475: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:10570): Gtk-WARNING **: 15:16:05.516: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:10685): Gtk-WARNING **: 15:16:05.690: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9l7iio/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:10771): Gtk-WARNING **: 15:16:06.880: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625478366895	Marionette	INFO	Listening on port 46017
+1625478367012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+1625478424441	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625478531967	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625516660863	geckodriver	INFO	Listening on 127.0.0.1:39321
+1625516661861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXBnKfD"
+
+(firefox:33336): Gtk-WARNING **: 01:54:21.928: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625516662385	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:33432): Gtk-WARNING **: 01:54:22.864: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:33336): Gtk-WARNING **: 01:54:22.904: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:33336): Gtk-WARNING **: 01:54:22.961: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:33459): Gtk-WARNING **: 01:54:23.146: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXBnKfD/search.json.mozlz4", (void 0)))
+1625516664198	Marionette	INFO	Listening on port 40817
+
+(/usr/lib/firefox/firefox:33543): Gtk-WARNING **: 01:54:24.203: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625516664286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625516969304	Marionette	INFO	Stopped listening on port 40817
+1625827046626	geckodriver	INFO	Listening on 127.0.0.1:52843
+1625827047626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLNEsL2"
+
+(firefox:22875): Gtk-WARNING **: 16:07:27.679: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827048157	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:22957): Gtk-WARNING **: 16:07:28.630: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:22875): Gtk-WARNING **: 16:07:28.667: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:22875): Gtk-WARNING **: 16:07:28.732: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:22984): Gtk-WARNING **: 16:07:28.925: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLNEsL2/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:23067): Gtk-WARNING **: 16:07:30.050: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827050134	Marionette	INFO	Listening on port 45129
+1625827050255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+1625827241884	geckodriver	INFO	Listening on 127.0.0.1:54793
+1625827241933	Marionette	INFO	Stopped listening on port 45129
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625827242880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefYN5Rw"
+
+(firefox:23974): Gtk-WARNING **: 16:10:42.966: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827243506	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:24054): Gtk-WARNING **: 16:10:44.003: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:23974): Gtk-WARNING **: 16:10:44.041: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:23974): Gtk-WARNING **: 16:10:44.096: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:24083): Gtk-WARNING **: 16:10:44.307: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefYN5Rw/search.json.mozlz4", (void 0)))
+1625827245451	Marionette	INFO	Listening on port 39351
+
+(/usr/lib/firefox/firefox:24166): Gtk-WARNING **: 16:10:45.455: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827245520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3738:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3648:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 103))
+1625827341821	Marionette	INFO	Stopped listening on port 39351
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625827505733	geckodriver	INFO	Listening on 127.0.0.1:47733
+1625827505740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZH0gQ5"
+
+(firefox:25511): Gtk-WARNING **: 16:15:05.793: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827506303	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:25590): Gtk-WARNING **: 16:15:06.853: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:25511): Gtk-WARNING **: 16:15:06.884: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:25511): Gtk-WARNING **: 16:15:06.930: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:25617): Gtk-WARNING **: 16:15:07.127: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZH0gQ5/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:25723): Gtk-WARNING **: 16:15:08.170: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827508243	Marionette	INFO	Listening on port 41167
+1625827508276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+1625827538801	Marionette	INFO	Stopped listening on port 41167
+1625827546776	geckodriver	INFO	Listening on 127.0.0.1:55283
+1625827546784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAMrnwx"
+
+(firefox:26042): Gtk-WARNING **: 16:15:46.844: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827547327	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:26121): Gtk-WARNING **: 16:15:47.858: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:26042): Gtk-WARNING **: 16:15:47.881: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:26042): Gtk-WARNING **: 16:15:47.925: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:26148): Gtk-WARNING **: 16:15:48.126: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAMrnwx/search.json.mozlz4", (void 0)))
+1625827549065	Marionette	INFO	Listening on port 44079
+
+(/usr/lib/firefox/firefox:26245): Gtk-WARNING **: 16:15:49.068: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827549122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625827599079	Marionette	INFO	Stopped listening on port 44079
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625827798198	geckodriver	INFO	Listening on 127.0.0.1:51633
+1625827798208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ3ytGB"
+
+(firefox:27465): Gtk-WARNING **: 16:19:58.265: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827798751	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:27546): Gtk-WARNING **: 16:19:59.237: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:27465): Gtk-WARNING **: 16:19:59.263: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:27465): Gtk-WARNING **: 16:19:59.307: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:27573): Gtk-WARNING **: 16:19:59.491: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ3ytGB/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:27673): Gtk-WARNING **: 16:20:00.658: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827800674	Marionette	INFO	Listening on port 46331
+1625827800740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+1625827824713	Marionette	INFO	Stopped listening on port 46331
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625827832068	geckodriver	INFO	Listening on 127.0.0.1:43449
+1625827832072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevTmMwS"
+
+(firefox:27957): Gtk-WARNING **: 16:20:32.139: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827832624	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:28037): Gtk-WARNING **: 16:20:33.142: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:27957): Gtk-WARNING **: 16:20:33.155: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:27957): Gtk-WARNING **: 16:20:33.200: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:28064): Gtk-WARNING **: 16:20:33.375: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevTmMwS/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:28148): Gtk-WARNING **: 16:20:34.485: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625827834497	Marionette	INFO	Listening on port 35755
+1625827834641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3738:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3648:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 103))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625827995870	Marionette	INFO	Stopped listening on port 35755
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625828021579	geckodriver	INFO	Listening on 127.0.0.1:47219
+1625828021585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeVICnH"
+
+(firefox:29206): Gtk-WARNING **: 16:23:41.646: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625828022153	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:29284): Gtk-WARNING **: 16:23:42.666: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:29206): Gtk-WARNING **: 16:23:42.694: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:29206): Gtk-WARNING **: 16:23:42.741: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(/usr/lib/firefox/firefox:29311): Gtk-WARNING **: 16:23:42.921: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeVICnH/search.json.mozlz4", (void 0)))
+1625828024040	Marionette	INFO	Listening on port 46607
+
+(/usr/lib/firefox/firefox:29395): Gtk-WARNING **: 16:23:44.060: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1625828024123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.5493d3169ddcc45ad148.js, line 19: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625828111619	Marionette	INFO	Stopped listening on port 46607
