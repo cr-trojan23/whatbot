@@ -2427,3 +2427,103 @@ JavaScript warning: https://web.whatsapp.com/bootstrap_qr.4b9c044a48c9fc5005b0.j
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1629371992009	geckodriver	INFO	Listening on 127.0.0.1:37711
+1629371993006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqp9OkM"
+
+(firefox:28511): Gtk-WARNING **: 16:49:53.111: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1629371993818	Marionette	INFO	Marionette enabled
+
+(firefox:28511): Gtk-WARNING **: 16:49:53.943: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:28511): Gtk-WARNING **: 16:49:54.027: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:28511): Gtk-WARNING **: 16:49:54.066: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqp9OkM/search.json.mozlz4", (void 0)))
+1629371995778	Marionette	INFO	Listening on port 39387
+1629371995840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1631043019377	geckodriver	INFO	Listening on 127.0.0.1:46099
+1631043020376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9uTbqt"
+
+(firefox:173310): Gtk-WARNING **: 01:00:20.437: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+1631043020947	Marionette	INFO	Marionette enabled
+
+(firefox:173310): Gtk-WARNING **: 01:00:21.081: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:173310): Gtk-WARNING **: 01:00:21.166: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+
+(firefox:173310): Gtk-WARNING **: 01:00:21.206: Theme parsing error: gtk.css:6342:10: 'height' is not a valid property name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9uTbqt/search.json.mozlz4", (void 0)))
+1631043022778	Marionette	INFO	Listening on port 45519
+1631043022811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.428c60993dba5c1514a3.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.428c60993dba5c1514a3.js, line 56: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631043370410	Marionette	INFO	Stopped listening on port 45519
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -18,4 +18,3 @@ while True:
             pass
         try:
             name = firefox_driver.find_elements_by_class_name("_1Lc2C eHxwV _3-8er").text
-            
