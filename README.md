@@ -12,8 +12,8 @@ use at your own risk.
 ```console
 git clone https://github.com/cr-trojan23/whatbot.git
 cd whatbot
-pip install requirements.txt 		#for windows
-pip3 install requirements.txt 		#for macos, linux
+pip install -r requirements.txt 	#for windows
+pip3 install -r requirements.txt 	#for macos, linux
 python whatbot.py 			#for windows
 python3 whatbot.py 			#for macos, linux
 ```
