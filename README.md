@@ -3,7 +3,8 @@
 <p align="center"> whatbot is designed to bulk message ppl. enjoy.</p>
 
 ---
-Whatsapp has recently started to ban the accounts which send bulk messages very frequently.
+Install Mozilla Firefox before running.<br>
+Whatsapp has recently started to ban the accounts which send bulk messages very frequently.<br>
 use at your own risk.
 ---
 
